@@ -4,7 +4,7 @@ from decimal import Decimal
 
 import pytest
 
-from src.core.value_objects import Money
+from src.domain.value_objects import Money
 
 
 class TestMoney:

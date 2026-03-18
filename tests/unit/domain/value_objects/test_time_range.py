@@ -3,7 +3,7 @@
 import pytest
 from datetime import datetime
 
-from src.core.value_objects import TimeRange
+from src.domain.value_objects import TimeRange
 
 
 class TestTimeRange:

@@ -2,7 +2,7 @@
 
 import pytest
 
-from src.core.value_objects import EventType
+from src.domain.value_objects import EventType
 
 
 class TestEventType:
